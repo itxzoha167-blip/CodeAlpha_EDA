@@ -1,0 +1,4 @@
+subject,lower_bound,upper_bound,outlier_count
+math score,27.0,107.0,8
+reading score,29.0,109.0,6
+writing score,25.875,110.875,5
